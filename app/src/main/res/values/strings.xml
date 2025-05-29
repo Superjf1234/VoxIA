@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoxAI</string>
+    
+    <!-- Pantalla de Inicio -->
+    <string name="start_recording">Iniciar Grabación</string>
+    <string name="stop_recording">Detener Grabación</string>
+    <string name="pause_recording">Pausar</string>
+    <string name="resume_recording">Reanudar</string>
+    
+    <!-- Historial -->
+    <string name="recent_recordings">Grabaciones Recientes</string>
+    <string name="no_recordings">No hay grabaciones</string>
+    
+    <!-- Proceso de IA -->
+    <string name="processing">Procesando...</string>
+    <string name="transcribing">Transcribiendo</string>
+    <string name="analyzing">Analizando</string>
+    
+    <!-- Resultados -->
+    <string name="summary">Resumen</string>
+    <string name="key_points">Puntos Clave</string>
+    <string name="transcription">Transcripción</string>
+    <string name="share">Compartir</string>
+    
+    <!-- Errores -->
+    <string name="error_recording">Error al grabar</string>
+    <string name="error_processing">Error al procesar</string>
+    <string name="error_network">Error de conexión</string>
+    
+    <!-- Permisos -->
+    <string name="permission_required">Se requieren permisos</string>
+    <string name="permission_microphone">Se requiere permiso de micrófono</string>
+    <string name="permission_storage">Se requiere permiso de almacenamiento</string>
+</resources> 
