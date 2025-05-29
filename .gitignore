@@ -1,3 +1,4 @@
+# Archivos de Android Studio
 *.iml
 .gradle
 /local.properties
@@ -8,8 +9,20 @@
 .externalNativeBuild
 .cxx
 local.properties
-app/build/
-app/release/
+
+# Archivos de compilación
+/app/build/
+/app/release/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+local.properties
+*.log
+
+# Archivos de caché
 *.apk
 *.aab
 *.ap_
@@ -18,6 +31,20 @@ app/release/
 bin/
 gen/
 out/
+
+# Archivos de dependencias
+node_modules/
+.npm/
+.yarn/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de Gradle
+.gradle
 .navigation/
 gradle-app.setting
 !gradle-wrapper.jar
